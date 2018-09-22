@@ -1,5 +1,8 @@
 _repo: The-Ethics-of-Diet-A-Catena-of-Authorities-Deprecatory-of-the-Practice-of-Flesh-Eating_55785
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55785-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Howard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '25560'
     url: http://www.gutenberg.org/2009/agents/25560
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55785#The-Ethics-of-Diet-A-Catena-of-Authorities-Deprecatory-of-the-Practice-of-Flesh-Eating
 gutenberg_issued: '2017-10-21'
 gutenberg_type: Text
 identifiers:
